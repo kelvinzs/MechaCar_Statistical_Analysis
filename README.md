@@ -29,6 +29,7 @@ What is the null hypothesis or alternative hypothesis? The null hypotheis is the
 
 What statistical test would you use to test the hypothesis? And why?
 Since I am comparing two two different independent populations, i would suggest and use a two sample T test. I would also conduct linear regression to view potential relationships between metrics. 
+
 What data is needed to run the statistical test?
 Data required for the test include 2 samples containing independent crash data from both relevant groups.(i.e mechacars vs it competitors). Each Sample must be greater than 30 i.e (N > 30)
 
